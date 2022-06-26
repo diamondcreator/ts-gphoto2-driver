@@ -65,7 +65,7 @@
     "istanbul-merge": "^1.1.1",
     "nyc": "^15.1.0",
     "jest": "27.4.3",
-    "lerna": "4.0.0",
+    "lerna": "5.1.6",
     "lint-staged": "^12.3.7",
     "normalize-path": "^3.0.0",
     "prettier": "2.5.1",
